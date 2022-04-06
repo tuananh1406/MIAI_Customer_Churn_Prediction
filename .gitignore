@@ -1,0 +1,6 @@
+tags
+database-mq/
+*.lock
+*.swp
+__pycache__/
+tmp/
